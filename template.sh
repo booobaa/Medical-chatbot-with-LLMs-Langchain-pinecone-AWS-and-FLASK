@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 # création des répertoires
 mkdir -p src
